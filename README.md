@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Automated Nuclei Detection in Microscopy Images</title>
 </head>
 <body>
   <div class="container">
